@@ -1,0 +1,6 @@
+module Pods_reactnativereducrouterflux {
+  umbrella header "Pods-reactnativereducrouterflux-umbrella.h"
+
+  export *
+  module * { export * }
+}

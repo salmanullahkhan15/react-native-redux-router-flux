@@ -1,0 +1,12 @@
+{
+  "name": "react-native-redux-router-flux",
+  "displayName": "react-native-redux-router-flux",
+  "expo": {
+    "name": "react-native-redux-router-flux",
+    "slug": "react-native-redux-router-flux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
